@@ -1,6 +1,4 @@
 # testingdocker
-
-
 FROM ubuntu:16.04
 MAINTAINER medi lethesh <mlethesh@gmail.com>
 
